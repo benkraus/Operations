@@ -14,6 +14,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1D9B430D1B6A92ED008F7F18"
+               BuildableName = "Operations.framework"
+               BlueprintName = "Operations-iOS"
+               ReferencedContainer = "container:Operations.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "61E1A7C91CEEE07B00728D95"
                BuildableName = "OperationsPassbookExtras.framework"
                BlueprintName = "OperationsPassbookExtras"
@@ -29,6 +43,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "61E1A7C91CEEE07B00728D95"
+            BuildableName = "OperationsPassbookExtras.framework"
+            BlueprintName = "OperationsPassbookExtras"
+            ReferencedContainer = "container:Operations.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>

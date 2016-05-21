@@ -23,7 +23,7 @@
  SOFTWARE.
  */
 
-#if os(iOS)
+//#if os(iOS)
 
 import Foundation
 import PassKit
@@ -58,4 +58,4 @@ public enum Passbook: CapabilityType {
     }
 }
 
-#endif
+//#endif

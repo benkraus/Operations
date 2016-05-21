@@ -47,7 +47,7 @@ public class LocationOperation: Operation, CLLocationManagerDelegate {
         self.accuracy = accuracy
         self.handler = locationHandler
         super.init()
-        #if !os(tvOS)
+        #if !os(tvOS) && !os(OSX)
             addCondition(Capability(Location.WhenInUse))
         #else
             addCondition(Capability(Location()))

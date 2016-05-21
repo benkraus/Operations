@@ -23,7 +23,11 @@
  SOFTWARE.
  */
 
-#if os(OSX)
+// Leaving out this conditional compilation because it is excluded from targets
+// that don't support this code, and I was hitting a build error with it,
+// similar to: https://openradar.appspot.com/23487944
+
+//#if os(OSX)
 
 import Foundation
 import CoreLocation
@@ -100,4 +104,4 @@ private class LocationAuthorizer: NSObject, CLLocationManagerDelegate {
     
 }
 
-#endif
+//#endif

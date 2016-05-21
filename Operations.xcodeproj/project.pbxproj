@@ -33,98 +33,99 @@
 		55AE64CF1BC175190097F4A5 /* iCloudContainerCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CE1BC175190097F4A5 /* iCloudContainerCapability.swift */; };
 		55AE64DA1BC1C7430097F4A5 /* PushCapability-iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D91BC1C7430097F4A5 /* PushCapability-iOS.swift */; };
 		55AE64DE1BC1DCF50097F4A5 /* UserNotificationCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64DD1BC1DCF50097F4A5 /* UserNotificationCapability.swift */; };
-		61E1A7681CEECF0A00728D95 /* BlockOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432D1B6A934A008F7F18 /* BlockOperation.swift */; };
-		61E1A7691CEECF0A00728D95 /* BlockOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432D1B6A934A008F7F18 /* BlockOperation.swift */; };
-		61E1A76A1CEECF0B00728D95 /* BlockOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432D1B6A934A008F7F18 /* BlockOperation.swift */; };
-		61E1A76B1CEECF0E00728D95 /* GroupOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432E1B6A934A008F7F18 /* GroupOperation.swift */; };
-		61E1A76C1CEECF0F00728D95 /* GroupOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432E1B6A934A008F7F18 /* GroupOperation.swift */; };
-		61E1A76D1CEECF0F00728D95 /* GroupOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432E1B6A934A008F7F18 /* GroupOperation.swift */; };
-		61E1A76E1CEECF1500728D95 /* URLSessionTaskOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432F1B6A934A008F7F18 /* URLSessionTaskOperation.swift */; };
-		61E1A76F1CEECF1600728D95 /* URLSessionTaskOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432F1B6A934A008F7F18 /* URLSessionTaskOperation.swift */; };
-		61E1A7701CEECF1700728D95 /* URLSessionTaskOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432F1B6A934A008F7F18 /* URLSessionTaskOperation.swift */; };
-		61E1A7711CEECF1A00728D95 /* LocationOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43301B6A934A008F7F18 /* LocationOperation.swift */; };
-		61E1A7721CEECF1B00728D95 /* LocationOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43301B6A934A008F7F18 /* LocationOperation.swift */; };
-		61E1A7731CEECF1C00728D95 /* LocationOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43301B6A934A008F7F18 /* LocationOperation.swift */; };
-		61E1A7741CEECF1F00728D95 /* DelayOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43311B6A934A008F7F18 /* DelayOperation.swift */; };
-		61E1A7751CEECF2000728D95 /* DelayOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43311B6A934A008F7F18 /* DelayOperation.swift */; };
-		61E1A7761CEECF2100728D95 /* DelayOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43311B6A934A008F7F18 /* DelayOperation.swift */; };
-		61E1A7771CEECF2400728D95 /* OperationObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43321B6A934A008F7F18 /* OperationObserver.swift */; };
-		61E1A7781CEECF2500728D95 /* OperationObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43321B6A934A008F7F18 /* OperationObserver.swift */; };
-		61E1A7791CEECF2600728D95 /* OperationObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43321B6A934A008F7F18 /* OperationObserver.swift */; };
-		61E1A77A1CEECF2900728D95 /* BlockObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43331B6A934A008F7F18 /* BlockObserver.swift */; };
-		61E1A77B1CEECF2A00728D95 /* BlockObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43331B6A934A008F7F18 /* BlockObserver.swift */; };
-		61E1A77C1CEECF2B00728D95 /* BlockObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43331B6A934A008F7F18 /* BlockObserver.swift */; };
-		61E1A77D1CEECF2E00728D95 /* TimeoutObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43341B6A934A008F7F18 /* TimeoutObserver.swift */; };
-		61E1A77E1CEECF2F00728D95 /* TimeoutObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43341B6A934A008F7F18 /* TimeoutObserver.swift */; };
-		61E1A77F1CEECF3000728D95 /* TimeoutObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43341B6A934A008F7F18 /* TimeoutObserver.swift */; };
-		61E1A7801CEECF3300728D95 /* OperationErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43351B6A934A008F7F18 /* OperationErrors.swift */; };
-		61E1A7811CEECF3300728D95 /* OperationErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43351B6A934A008F7F18 /* OperationErrors.swift */; };
-		61E1A7821CEECF3400728D95 /* OperationErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43351B6A934A008F7F18 /* OperationErrors.swift */; };
-		61E1A7831CEECF3800728D95 /* OperationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43361B6A934A008F7F18 /* OperationCondition.swift */; };
-		61E1A7841CEECF3900728D95 /* OperationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43361B6A934A008F7F18 /* OperationCondition.swift */; };
-		61E1A7851CEECF3900728D95 /* OperationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43361B6A934A008F7F18 /* OperationCondition.swift */; };
-		61E1A7861CEECF3D00728D95 /* SilentCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43371B6A934A008F7F18 /* SilentCondition.swift */; };
-		61E1A7871CEECF3D00728D95 /* SilentCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43371B6A934A008F7F18 /* SilentCondition.swift */; };
-		61E1A7881CEECF3E00728D95 /* SilentCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43371B6A934A008F7F18 /* SilentCondition.swift */; };
-		61E1A7891CEECF4200728D95 /* NegatedCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43381B6A934A008F7F18 /* NegatedCondition.swift */; };
-		61E1A78A1CEECF4300728D95 /* NegatedCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43381B6A934A008F7F18 /* NegatedCondition.swift */; };
-		61E1A78B1CEECF4400728D95 /* NegatedCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43381B6A934A008F7F18 /* NegatedCondition.swift */; };
-		61E1A78C1CEECF4800728D95 /* NoCancelledDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43391B6A934A008F7F18 /* NoCancelledDependencies.swift */; };
-		61E1A78D1CEECF4900728D95 /* NoCancelledDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43391B6A934A008F7F18 /* NoCancelledDependencies.swift */; };
-		61E1A78E1CEECF4A00728D95 /* NoCancelledDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43391B6A934A008F7F18 /* NoCancelledDependencies.swift */; };
-		61E1A78F1CEECF4E00728D95 /* MutuallyExclusive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433A1B6A934A008F7F18 /* MutuallyExclusive.swift */; };
-		61E1A7901CEECF4E00728D95 /* MutuallyExclusive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433A1B6A934A008F7F18 /* MutuallyExclusive.swift */; };
-		61E1A7911CEECF4F00728D95 /* MutuallyExclusive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433A1B6A934A008F7F18 /* MutuallyExclusive.swift */; };
-		61E1A7921CEECF5200728D95 /* ReachabilityCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433B1B6A934A008F7F18 /* ReachabilityCondition.swift */; };
-		61E1A7931CEECF5300728D95 /* ReachabilityCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433B1B6A934A008F7F18 /* ReachabilityCondition.swift */; };
-		61E1A7941CEECF5400728D95 /* ReachabilityCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433B1B6A934A008F7F18 /* ReachabilityCondition.swift */; };
-		61E1A7951CEECF5700728D95 /* Capability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C31BC172ED0097F4A5 /* Capability.swift */; };
-		61E1A7961CEECF5800728D95 /* Capability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C31BC172ED0097F4A5 /* Capability.swift */; };
-		61E1A7971CEECF5900728D95 /* Capability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C31BC172ED0097F4A5 /* Capability.swift */; };
-		61E1A7991CEECF5E00728D95 /* CalendarCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C61BC173100097F4A5 /* CalendarCapability.swift */; };
-		61E1A79A1CEECF5F00728D95 /* CalendarCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C61BC173100097F4A5 /* CalendarCapability.swift */; };
-		61E1A79E1CEECF6A00728D95 /* iCloudContainerCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CE1BC175190097F4A5 /* iCloudContainerCapability.swift */; };
-		61E1A7A01CEECF6C00728D95 /* iCloudContainerCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CE1BC175190097F4A5 /* iCloudContainerCapability.swift */; };
-		61E1A7A11CEECF7D00728D95 /* LocationCapability-iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CC1BC1738D0097F4A5 /* LocationCapability-iOS.swift */; };
-		61E1A7A21CEECF8600728D95 /* LocationCapability-tvOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D11BC180570097F4A5 /* LocationCapability-tvOS.swift */; };
-		61E1A7A31CEECF9000728D95 /* LocationCapability-OSX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D31BC180650097F4A5 /* LocationCapability-OSX.swift */; };
-		61E1A7A71CEECFAD00728D95 /* PushCapability-OSX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64DB1BC1C7E50097F4A5 /* PushCapability-OSX.swift */; };
-		61E1A7A81CEECFB900728D95 /* Dictionary+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43441B6A934A008F7F18 /* Dictionary+Operations.swift */; };
-		61E1A7A91CEECFBA00728D95 /* Dictionary+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43441B6A934A008F7F18 /* Dictionary+Operations.swift */; };
-		61E1A7AA1CEECFBB00728D95 /* Dictionary+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43441B6A934A008F7F18 /* Dictionary+Operations.swift */; };
-		61E1A7AB1CEECFBF00728D95 /* NSOperation+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43451B6A934A008F7F18 /* NSOperation+Operations.swift */; };
-		61E1A7AC1CEECFC000728D95 /* NSOperation+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43451B6A934A008F7F18 /* NSOperation+Operations.swift */; };
-		61E1A7AD1CEECFC100728D95 /* NSOperation+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43451B6A934A008F7F18 /* NSOperation+Operations.swift */; };
-		61E1A7AE1CEECFC600728D95 /* NSLock+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB1BBBD1B8D67CB00FB9D7A /* NSLock+Operations.swift */; };
-		61E1A7AF1CEECFC700728D95 /* NSLock+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB1BBBD1B8D67CB00FB9D7A /* NSLock+Operations.swift */; };
-		61E1A7B01CEECFC800728D95 /* NSLock+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB1BBBD1B8D67CB00FB9D7A /* NSLock+Operations.swift */; };
-		61E1A7B11CEED01B00728D95 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432C1B6A934A008F7F18 /* Operation.swift */; };
-		61E1A7B21CEED01C00728D95 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432C1B6A934A008F7F18 /* Operation.swift */; };
-		61E1A7B31CEED01C00728D95 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432C1B6A934A008F7F18 /* Operation.swift */; };
 		61E1A7B71CEED31A00728D95 /* LocationCapability-iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CC1BC1738D0097F4A5 /* LocationCapability-iOS.swift */; };
-		61E1A7D21CEEE0D700728D95 /* Operations.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9B430E1B6A92ED008F7F18 /* Operations.framework */; };
 		61E1A7D31CEEE0EF00728D95 /* PassbookCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CA1BC173560097F4A5 /* PassbookCapability.swift */; };
-		61E1A7D41CEEE16F00728D95 /* Operations.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9B430E1B6A92ED008F7F18 /* Operations.framework */; };
 		61E1A7E81CEEE45800728D95 /* OperationsHealthExtras-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61E1A7E61CEEE45800728D95 /* OperationsHealthExtras-Info.plist */; };
 		61E1A7EA1CEEE46000728D95 /* OperationsHealthExtras.h in Headers */ = {isa = PBXBuildFile; fileRef = 61E1A7E71CEEE45800728D95 /* OperationsHealthExtras.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		61E1A7EB1CEEE46500728D95 /* OperationsHealthExtras.h in Headers */ = {isa = PBXBuildFile; fileRef = 61E1A7E71CEEE45800728D95 /* OperationsHealthExtras.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		61E1A7EE1CEEE47D00728D95 /* OperationsPassbookExtras-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61E1A7EC1CEEE47D00728D95 /* OperationsPassbookExtras-Info.plist */; };
 		61E1A7F01CEEE48400728D95 /* OperationsPassbookExtras.h in Headers */ = {isa = PBXBuildFile; fileRef = 61E1A7ED1CEEE47D00728D95 /* OperationsPassbookExtras.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		61E1A7F11CEEE51900728D95 /* Operations.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61E1A74A1CEECCC100728D95 /* Operations.framework */; };
 		61E1A7F21CEEE57000728D95 /* HealthCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D51BC19E330097F4A5 /* HealthCapability.swift */; };
-		61E1A7F31CEEE57100728D95 /* HealthCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D51BC19E330097F4A5 /* HealthCapability.swift */; };
 		61E1A7FA1CF0042200728D95 /* OperationQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7F91CF0042200728D95 /* OperationQueue.swift */; };
-		61E1A7FB1CF0042200728D95 /* OperationQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7F91CF0042200728D95 /* OperationQueue.swift */; };
-		61E1A7FC1CF0042200728D95 /* OperationQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7F91CF0042200728D95 /* OperationQueue.swift */; };
-		61E1A7FD1CF0042200728D95 /* OperationQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7F91CF0042200728D95 /* OperationQueue.swift */; };
 		61E1A7FF1CF0043200728D95 /* ExclusivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */; };
-		61E1A8001CF0043200728D95 /* ExclusivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */; };
-		61E1A8011CF0043200728D95 /* ExclusivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */; };
-		61E1A8021CF0043200728D95 /* ExclusivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */; };
-		61E1A8081CF0063A00728D95 /* Operations.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9B43131B6A92ED008F7F18 /* Operations.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		61E1A8091CF0063A00728D95 /* Operations.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9B43131B6A92ED008F7F18 /* Operations.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		61E1A80A1CF0063B00728D95 /* Operations.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9B43131B6A92ED008F7F18 /* Operations.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		61E1A80C1CF0065500728D95 /* Operations.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9B43131B6A92ED008F7F18 /* Operations.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		61E1A8421CF0273D00728D95 /* OperationQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7F91CF0042200728D95 /* OperationQueue.swift */; };
+		61E1A8431CF0273E00728D95 /* OperationQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7F91CF0042200728D95 /* OperationQueue.swift */; };
+		61E1A8441CF0273F00728D95 /* OperationQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7F91CF0042200728D95 /* OperationQueue.swift */; };
+		61E1A8451CF0274200728D95 /* ExclusivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */; };
+		61E1A8461CF0274300728D95 /* ExclusivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */; };
+		61E1A8471CF0274300728D95 /* ExclusivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */; };
+		61E1A8481CF0274600728D95 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432C1B6A934A008F7F18 /* Operation.swift */; };
+		61E1A8491CF0274700728D95 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432C1B6A934A008F7F18 /* Operation.swift */; };
+		61E1A84A1CF0274700728D95 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432C1B6A934A008F7F18 /* Operation.swift */; };
+		61E1A84B1CF0274B00728D95 /* BlockOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432D1B6A934A008F7F18 /* BlockOperation.swift */; };
+		61E1A84C1CF0274B00728D95 /* BlockOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432D1B6A934A008F7F18 /* BlockOperation.swift */; };
+		61E1A84D1CF0274C00728D95 /* BlockOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432D1B6A934A008F7F18 /* BlockOperation.swift */; };
+		61E1A84E1CF0275000728D95 /* GroupOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432E1B6A934A008F7F18 /* GroupOperation.swift */; };
+		61E1A84F1CF0275000728D95 /* GroupOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432E1B6A934A008F7F18 /* GroupOperation.swift */; };
+		61E1A8501CF0275100728D95 /* GroupOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432E1B6A934A008F7F18 /* GroupOperation.swift */; };
+		61E1A8511CF0275600728D95 /* URLSessionTaskOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432F1B6A934A008F7F18 /* URLSessionTaskOperation.swift */; };
+		61E1A8521CF0275700728D95 /* URLSessionTaskOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432F1B6A934A008F7F18 /* URLSessionTaskOperation.swift */; };
+		61E1A8531CF0275800728D95 /* URLSessionTaskOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B432F1B6A934A008F7F18 /* URLSessionTaskOperation.swift */; };
+		61E1A8541CF0275A00728D95 /* LocationOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43301B6A934A008F7F18 /* LocationOperation.swift */; };
+		61E1A8551CF0275B00728D95 /* LocationOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43301B6A934A008F7F18 /* LocationOperation.swift */; };
+		61E1A8561CF0275C00728D95 /* LocationOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43301B6A934A008F7F18 /* LocationOperation.swift */; };
+		61E1A8571CF0275F00728D95 /* DelayOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43311B6A934A008F7F18 /* DelayOperation.swift */; };
+		61E1A8581CF0276100728D95 /* DelayOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43311B6A934A008F7F18 /* DelayOperation.swift */; };
+		61E1A8591CF0276100728D95 /* DelayOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43311B6A934A008F7F18 /* DelayOperation.swift */; };
+		61E1A85A1CF0276500728D95 /* OperationObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43321B6A934A008F7F18 /* OperationObserver.swift */; };
+		61E1A85B1CF0276600728D95 /* OperationObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43321B6A934A008F7F18 /* OperationObserver.swift */; };
+		61E1A85C1CF0276700728D95 /* OperationObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43321B6A934A008F7F18 /* OperationObserver.swift */; };
+		61E1A85D1CF0276B00728D95 /* BlockObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43331B6A934A008F7F18 /* BlockObserver.swift */; };
+		61E1A85E1CF0276C00728D95 /* BlockObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43331B6A934A008F7F18 /* BlockObserver.swift */; };
+		61E1A85F1CF0276C00728D95 /* BlockObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43331B6A934A008F7F18 /* BlockObserver.swift */; };
+		61E1A8601CF0277100728D95 /* TimeoutObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43341B6A934A008F7F18 /* TimeoutObserver.swift */; };
+		61E1A8611CF0277200728D95 /* TimeoutObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43341B6A934A008F7F18 /* TimeoutObserver.swift */; };
+		61E1A8621CF0277300728D95 /* TimeoutObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43341B6A934A008F7F18 /* TimeoutObserver.swift */; };
+		61E1A8631CF0277800728D95 /* OperationErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43351B6A934A008F7F18 /* OperationErrors.swift */; };
+		61E1A8641CF0277800728D95 /* OperationErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43351B6A934A008F7F18 /* OperationErrors.swift */; };
+		61E1A8651CF0277900728D95 /* OperationErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43351B6A934A008F7F18 /* OperationErrors.swift */; };
+		61E1A8661CF0278900728D95 /* OperationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43361B6A934A008F7F18 /* OperationCondition.swift */; };
+		61E1A8671CF0278A00728D95 /* OperationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43361B6A934A008F7F18 /* OperationCondition.swift */; };
+		61E1A8681CF0278B00728D95 /* OperationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43361B6A934A008F7F18 /* OperationCondition.swift */; };
+		61E1A8691CF0278E00728D95 /* SilentCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43371B6A934A008F7F18 /* SilentCondition.swift */; };
+		61E1A86A1CF0278F00728D95 /* SilentCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43371B6A934A008F7F18 /* SilentCondition.swift */; };
+		61E1A86B1CF0278F00728D95 /* SilentCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43371B6A934A008F7F18 /* SilentCondition.swift */; };
+		61E1A86C1CF0279500728D95 /* NegatedCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43381B6A934A008F7F18 /* NegatedCondition.swift */; };
+		61E1A86D1CF0279500728D95 /* NegatedCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43381B6A934A008F7F18 /* NegatedCondition.swift */; };
+		61E1A86E1CF0279600728D95 /* NegatedCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43381B6A934A008F7F18 /* NegatedCondition.swift */; };
+		61E1A86F1CF0279900728D95 /* NoCancelledDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43391B6A934A008F7F18 /* NoCancelledDependencies.swift */; };
+		61E1A8701CF0279A00728D95 /* NoCancelledDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43391B6A934A008F7F18 /* NoCancelledDependencies.swift */; };
+		61E1A8711CF0279B00728D95 /* NoCancelledDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43391B6A934A008F7F18 /* NoCancelledDependencies.swift */; };
+		61E1A8721CF0279E00728D95 /* MutuallyExclusive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433A1B6A934A008F7F18 /* MutuallyExclusive.swift */; };
+		61E1A8731CF0279E00728D95 /* MutuallyExclusive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433A1B6A934A008F7F18 /* MutuallyExclusive.swift */; };
+		61E1A8741CF0279F00728D95 /* MutuallyExclusive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433A1B6A934A008F7F18 /* MutuallyExclusive.swift */; };
+		61E1A8751CF027A300728D95 /* ReachabilityCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433B1B6A934A008F7F18 /* ReachabilityCondition.swift */; };
+		61E1A8761CF027A300728D95 /* ReachabilityCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433B1B6A934A008F7F18 /* ReachabilityCondition.swift */; };
+		61E1A8771CF027A400728D95 /* ReachabilityCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433B1B6A934A008F7F18 /* ReachabilityCondition.swift */; };
+		61E1A8781CF0288300728D95 /* Capability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C31BC172ED0097F4A5 /* Capability.swift */; };
+		61E1A8791CF0288300728D95 /* Capability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C31BC172ED0097F4A5 /* Capability.swift */; };
+		61E1A87A1CF0288400728D95 /* Capability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C31BC172ED0097F4A5 /* Capability.swift */; };
+		61E1A87B1CF0288900728D95 /* CalendarCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C61BC173100097F4A5 /* CalendarCapability.swift */; };
+		61E1A87C1CF0288A00728D95 /* CalendarCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C61BC173100097F4A5 /* CalendarCapability.swift */; };
+		61E1A87D1CF0288B00728D95 /* CalendarCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64C61BC173100097F4A5 /* CalendarCapability.swift */; };
+		61E1A87E1CF0288F00728D95 /* HealthCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D51BC19E330097F4A5 /* HealthCapability.swift */; };
+		61E1A87F1CF0289300728D95 /* iCloudContainerCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CE1BC175190097F4A5 /* iCloudContainerCapability.swift */; };
+		61E1A8801CF0289400728D95 /* iCloudContainerCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CE1BC175190097F4A5 /* iCloudContainerCapability.swift */; };
+		61E1A8811CF0289400728D95 /* iCloudContainerCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CE1BC175190097F4A5 /* iCloudContainerCapability.swift */; };
+		61E1A8821CF028A600728D95 /* LocationCapability-iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CC1BC1738D0097F4A5 /* LocationCapability-iOS.swift */; };
+		61E1A8831CF028AA00728D95 /* LocationCapability-tvOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D11BC180570097F4A5 /* LocationCapability-tvOS.swift */; };
+		61E1A8841CF028B000728D95 /* LocationCapability-OSX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D31BC180650097F4A5 /* LocationCapability-OSX.swift */; };
+		61E1A8881CF028CE00728D95 /* PushCapability-OSX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64DB1BC1C7E50097F4A5 /* PushCapability-OSX.swift */; };
+		61E1A8891CF028D600728D95 /* Dictionary+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43441B6A934A008F7F18 /* Dictionary+Operations.swift */; };
+		61E1A88A1CF028D600728D95 /* Dictionary+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43441B6A934A008F7F18 /* Dictionary+Operations.swift */; };
+		61E1A88B1CF028D700728D95 /* Dictionary+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43441B6A934A008F7F18 /* Dictionary+Operations.swift */; };
+		61E1A88C1CF028DB00728D95 /* NSOperation+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43451B6A934A008F7F18 /* NSOperation+Operations.swift */; };
+		61E1A88D1CF028DC00728D95 /* NSOperation+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43451B6A934A008F7F18 /* NSOperation+Operations.swift */; };
+		61E1A88E1CF028DD00728D95 /* NSOperation+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43451B6A934A008F7F18 /* NSOperation+Operations.swift */; };
+		61E1A88F1CF028E300728D95 /* NSLock+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB1BBBD1B8D67CB00FB9D7A /* NSLock+Operations.swift */; };
+		61E1A8901CF028E400728D95 /* NSLock+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB1BBBD1B8D67CB00FB9D7A /* NSLock+Operations.swift */; };
+		61E1A8911CF028E500728D95 /* NSLock+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB1BBBD1B8D67CB00FB9D7A /* NSLock+Operations.swift */; };
+		61E1A8921CF028E900728D95 /* UIUserNotifications+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43471B6A934A008F7F18 /* UIUserNotifications+Operations.swift */; };
+		61E1A8931CF028E900728D95 /* UIUserNotifications+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43471B6A934A008F7F18 /* UIUserNotifications+Operations.swift */; };
+		61E1A8941CF028EA00728D95 /* UIUserNotifications+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43471B6A934A008F7F18 /* UIUserNotifications+Operations.swift */; };
+		61E1A89E1CF0312A00728D95 /* Operations.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61E1A8201CF026CF00728D95 /* Operations.framework */; };
+		61E1A89F1CF031CE00728D95 /* Operations.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9B430E1B6A92ED008F7F18 /* Operations.framework */; };
+		61E1A8A21CF033D500728D95 /* Operations.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9B430E1B6A92ED008F7F18 /* Operations.framework */; };
 		FD19C9D31C440293005D0F07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD19C9D21C440293005D0F07 /* AppDelegate.swift */; };
 		FD19C9D51C440293005D0F07 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD19C9D41C440293005D0F07 /* ViewController.swift */; };
 		FD19C9D81C440293005D0F07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD19C9D61C440293005D0F07 /* Main.storyboard */; };
@@ -194,18 +195,18 @@
 		55AE64D91BC1C7430097F4A5 /* PushCapability-iOS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PushCapability-iOS.swift"; sourceTree = "<group>"; };
 		55AE64DB1BC1C7E50097F4A5 /* PushCapability-OSX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PushCapability-OSX.swift"; sourceTree = "<group>"; };
 		55AE64DD1BC1DCF50097F4A5 /* UserNotificationCapability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserNotificationCapability.swift; sourceTree = "<group>"; };
-		61E1A73D1CEECB8100728D95 /* Operations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Operations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		61E1A74A1CEECCC100728D95 /* Operations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Operations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		61E1A7571CEECD8C00728D95 /* Operations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Operations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		61E1A7BD1CEEE06000728D95 /* OperationsHealthExtras.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OperationsHealthExtras.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		61E1A7CA1CEEE07B00728D95 /* OperationsPassbookExtras.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OperationsPassbookExtras.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		61E1A7DC1CEEE3A900728D95 /* OperationsHealthExtras.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OperationsHealthExtras.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		61E1A7E61CEEE45800728D95 /* OperationsHealthExtras-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "OperationsHealthExtras-Info.plist"; path = "Operations/OperationsHealthExtras-Info.plist"; sourceTree = SOURCE_ROOT; };
 		61E1A7E71CEEE45800728D95 /* OperationsHealthExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OperationsHealthExtras.h; path = Operations/OperationsHealthExtras.h; sourceTree = SOURCE_ROOT; };
 		61E1A7EC1CEEE47D00728D95 /* OperationsPassbookExtras-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "OperationsPassbookExtras-Info.plist"; path = "Operations/OperationsPassbookExtras-Info.plist"; sourceTree = SOURCE_ROOT; };
 		61E1A7ED1CEEE47D00728D95 /* OperationsPassbookExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OperationsPassbookExtras.h; path = Operations/OperationsPassbookExtras.h; sourceTree = SOURCE_ROOT; };
 		61E1A7F91CF0042200728D95 /* OperationQueue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OperationQueue.swift; sourceTree = "<group>"; };
 		61E1A7FE1CF0043200728D95 /* ExclusivityController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExclusivityController.swift; sourceTree = "<group>"; };
+		61E1A8131CF026C000728D95 /* Operations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Operations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		61E1A8201CF026CF00728D95 /* Operations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Operations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		61E1A82D1CF026E200728D95 /* Operations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Operations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		61E1A83A1CF026FE00728D95 /* OperationsHealthExtras.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OperationsHealthExtras.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD19C9D01C440293005D0F07 /* PSOperationsAppForTests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PSOperationsAppForTests.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD19C9D21C440293005D0F07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD19C9D41C440293005D0F07 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -238,32 +239,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A7391CEECB8100728D95 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7461CEECCC100728D95 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7531CEECD8C00728D95 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		61E1A7B91CEEE06000728D95 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61E1A7D41CEEE16F00728D95 /* Operations.framework in Frameworks */,
+				61E1A89F1CF031CE00728D95 /* Operations.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,15 +251,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61E1A7D21CEEE0D700728D95 /* Operations.framework in Frameworks */,
+				61E1A8A21CF033D500728D95 /* Operations.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A7D81CEEE3A900728D95 /* Frameworks */ = {
+		61E1A80F1CF026C000728D95 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61E1A7F11CEEE51900728D95 /* Operations.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A81C1CF026CF00728D95 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A8291CF026E200728D95 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A8361CF026FE00728D95 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61E1A89E1CF0312A00728D95 /* Operations.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,12 +320,12 @@
 				1D9B43191B6A92ED008F7F18 /* PSOperationsTests.xctest */,
 				FD19C9D01C440293005D0F07 /* PSOperationsAppForTests.app */,
 				FD19C9E31C440293005D0F07 /* PSOperationsAppForTestsTests.xctest */,
-				61E1A73D1CEECB8100728D95 /* Operations.framework */,
-				61E1A74A1CEECCC100728D95 /* Operations.framework */,
-				61E1A7571CEECD8C00728D95 /* Operations.framework */,
 				61E1A7BD1CEEE06000728D95 /* OperationsHealthExtras.framework */,
 				61E1A7CA1CEEE07B00728D95 /* OperationsPassbookExtras.framework */,
-				61E1A7DC1CEEE3A900728D95 /* OperationsHealthExtras.framework */,
+				61E1A8131CF026C000728D95 /* Operations.framework */,
+				61E1A8201CF026CF00728D95 /* Operations.framework */,
+				61E1A82D1CF026E200728D95 /* Operations.framework */,
+				61E1A83A1CF026FE00728D95 /* OperationsHealthExtras.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -509,30 +510,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A73A1CEECB8100728D95 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				61E1A80A1CF0063B00728D95 /* Operations.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7471CEECCC100728D95 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				61E1A8091CF0063A00728D95 /* Operations.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7541CEECD8C00728D95 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				61E1A8081CF0063A00728D95 /* Operations.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		61E1A7BA1CEEE06000728D95 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -549,11 +526,31 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A7D91CEEE3A900728D95 /* Headers */ = {
+		61E1A8101CF026C000728D95 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61E1A7EB1CEEE46500728D95 /* OperationsHealthExtras.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A81D1CF026CF00728D95 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A82A1CF026E200728D95 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A8371CF026FE00728D95 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -596,60 +593,6 @@
 			productReference = 1D9B43191B6A92ED008F7F18 /* PSOperationsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		61E1A73C1CEECB8100728D95 /* Operations-tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 61E1A7421CEECB8100728D95 /* Build configuration list for PBXNativeTarget "Operations-tvOS" */;
-			buildPhases = (
-				61E1A7381CEECB8100728D95 /* Sources */,
-				61E1A7391CEECB8100728D95 /* Frameworks */,
-				61E1A73A1CEECB8100728D95 /* Headers */,
-				61E1A73B1CEECB8100728D95 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Operations-tvOS";
-			productName = "Operations-tvOS";
-			productReference = 61E1A73D1CEECB8100728D95 /* Operations.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		61E1A7491CEECCC100728D95 /* Operations-watchOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 61E1A74F1CEECCC100728D95 /* Build configuration list for PBXNativeTarget "Operations-watchOS" */;
-			buildPhases = (
-				61E1A7451CEECCC100728D95 /* Sources */,
-				61E1A7461CEECCC100728D95 /* Frameworks */,
-				61E1A7471CEECCC100728D95 /* Headers */,
-				61E1A7481CEECCC100728D95 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Operations-watchOS";
-			productName = "Operations-watchOS";
-			productReference = 61E1A74A1CEECCC100728D95 /* Operations.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		61E1A7561CEECD8C00728D95 /* Operations-macOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 61E1A75C1CEECD8D00728D95 /* Build configuration list for PBXNativeTarget "Operations-macOS" */;
-			buildPhases = (
-				61E1A7521CEECD8C00728D95 /* Sources */,
-				61E1A7531CEECD8C00728D95 /* Frameworks */,
-				61E1A7541CEECD8C00728D95 /* Headers */,
-				61E1A7551CEECD8C00728D95 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Operations-macOS";
-			productName = "Operations-macOS";
-			productReference = 61E1A7571CEECD8C00728D95 /* Operations.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		61E1A7BC1CEEE06000728D95 /* OperationsHealthExtras-iOS */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 61E1A7C21CEEE06000728D95 /* Build configuration list for PBXNativeTarget "OperationsHealthExtras-iOS" */;
@@ -686,14 +629,68 @@
 			productReference = 61E1A7CA1CEEE07B00728D95 /* OperationsPassbookExtras.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		61E1A7DB1CEEE3A900728D95 /* OperationsHealthExtras-watchOS */ = {
+		61E1A8121CF026C000728D95 /* Operations-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 61E1A7E11CEEE3A900728D95 /* Build configuration list for PBXNativeTarget "OperationsHealthExtras-watchOS" */;
+			buildConfigurationList = 61E1A8181CF026C000728D95 /* Build configuration list for PBXNativeTarget "Operations-tvOS" */;
 			buildPhases = (
-				61E1A7D71CEEE3A900728D95 /* Sources */,
-				61E1A7D81CEEE3A900728D95 /* Frameworks */,
-				61E1A7D91CEEE3A900728D95 /* Headers */,
-				61E1A7DA1CEEE3A900728D95 /* Resources */,
+				61E1A80E1CF026C000728D95 /* Sources */,
+				61E1A80F1CF026C000728D95 /* Frameworks */,
+				61E1A8101CF026C000728D95 /* Headers */,
+				61E1A8111CF026C000728D95 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Operations-tvOS";
+			productName = "Operations-tvOS";
+			productReference = 61E1A8131CF026C000728D95 /* Operations.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		61E1A81F1CF026CF00728D95 /* Operations-watchOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 61E1A8251CF026CF00728D95 /* Build configuration list for PBXNativeTarget "Operations-watchOS" */;
+			buildPhases = (
+				61E1A81B1CF026CF00728D95 /* Sources */,
+				61E1A81C1CF026CF00728D95 /* Frameworks */,
+				61E1A81D1CF026CF00728D95 /* Headers */,
+				61E1A81E1CF026CF00728D95 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Operations-watchOS";
+			productName = "Operations-watchOS";
+			productReference = 61E1A8201CF026CF00728D95 /* Operations.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		61E1A82C1CF026E200728D95 /* Operations-macOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 61E1A8321CF026E200728D95 /* Build configuration list for PBXNativeTarget "Operations-macOS" */;
+			buildPhases = (
+				61E1A8281CF026E200728D95 /* Sources */,
+				61E1A8291CF026E200728D95 /* Frameworks */,
+				61E1A82A1CF026E200728D95 /* Headers */,
+				61E1A82B1CF026E200728D95 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Operations-macOS";
+			productName = "Operations-macOS";
+			productReference = 61E1A82D1CF026E200728D95 /* Operations.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		61E1A8391CF026FE00728D95 /* OperationsHealthExtras-watchOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 61E1A83F1CF026FE00728D95 /* Build configuration list for PBXNativeTarget "OperationsHealthExtras-watchOS" */;
+			buildPhases = (
+				61E1A8351CF026FE00728D95 /* Sources */,
+				61E1A8361CF026FE00728D95 /* Frameworks */,
+				61E1A8371CF026FE00728D95 /* Headers */,
+				61E1A8381CF026FE00728D95 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -701,7 +698,7 @@
 			);
 			name = "OperationsHealthExtras-watchOS";
 			productName = "OperationsHealthExtras-watchOS";
-			productReference = 61E1A7DC1CEEE3A900728D95 /* OperationsHealthExtras.framework */;
+			productReference = 61E1A83A1CF026FE00728D95 /* OperationsHealthExtras.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		FD19C9CF1C440293005D0F07 /* PSOperationsAppForTests */ = {
@@ -756,22 +753,22 @@
 					1D9B43181B6A92ED008F7F18 = {
 						CreatedOnToolsVersion = 6.4;
 					};
-					61E1A73C1CEECB8100728D95 = {
-						CreatedOnToolsVersion = 7.3;
-					};
-					61E1A7491CEECCC100728D95 = {
-						CreatedOnToolsVersion = 7.3;
-					};
-					61E1A7561CEECD8C00728D95 = {
-						CreatedOnToolsVersion = 7.3;
-					};
 					61E1A7BC1CEEE06000728D95 = {
 						CreatedOnToolsVersion = 7.3;
 					};
 					61E1A7C91CEEE07B00728D95 = {
 						CreatedOnToolsVersion = 7.3;
 					};
-					61E1A7DB1CEEE3A900728D95 = {
+					61E1A8121CF026C000728D95 = {
+						CreatedOnToolsVersion = 7.3;
+					};
+					61E1A81F1CF026CF00728D95 = {
+						CreatedOnToolsVersion = 7.3;
+					};
+					61E1A82C1CF026E200728D95 = {
+						CreatedOnToolsVersion = 7.3;
+					};
+					61E1A8391CF026FE00728D95 = {
 						CreatedOnToolsVersion = 7.3;
 					};
 					FD19C9CF1C440293005D0F07 = {
@@ -797,11 +794,11 @@
 			projectRoot = "";
 			targets = (
 				1D9B430D1B6A92ED008F7F18 /* Operations-iOS */,
-				61E1A73C1CEECB8100728D95 /* Operations-tvOS */,
-				61E1A7491CEECCC100728D95 /* Operations-watchOS */,
-				61E1A7561CEECD8C00728D95 /* Operations-macOS */,
+				61E1A8121CF026C000728D95 /* Operations-tvOS */,
+				61E1A81F1CF026CF00728D95 /* Operations-watchOS */,
+				61E1A82C1CF026E200728D95 /* Operations-macOS */,
 				61E1A7BC1CEEE06000728D95 /* OperationsHealthExtras-iOS */,
-				61E1A7DB1CEEE3A900728D95 /* OperationsHealthExtras-watchOS */,
+				61E1A8391CF026FE00728D95 /* OperationsHealthExtras-watchOS */,
 				61E1A7C91CEEE07B00728D95 /* OperationsPassbookExtras */,
 				1D9B43181B6A92ED008F7F18 /* PSOperationsTests */,
 				FD19C9CF1C440293005D0F07 /* PSOperationsAppForTests */,
@@ -827,27 +824,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A73B1CEECB8100728D95 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7481CEECCC100728D95 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7551CEECD8C00728D95 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		61E1A7BB1CEEE06000728D95 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -862,7 +838,28 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A7DA1CEEE3A900728D95 /* Resources */ = {
+		61E1A8111CF026C000728D95 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A81E1CF026CF00728D95 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A82B1CF026E200728D95 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A8381CF026FE00728D95 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -936,101 +933,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A7381CEECB8100728D95 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				61E1A7AB1CEECFBF00728D95 /* NSOperation+Operations.swift in Sources */,
-				61E1A7681CEECF0A00728D95 /* BlockOperation.swift in Sources */,
-				61E1A7801CEECF3300728D95 /* OperationErrors.swift in Sources */,
-				61E1A76B1CEECF0E00728D95 /* GroupOperation.swift in Sources */,
-				61E1A76E1CEECF1500728D95 /* URLSessionTaskOperation.swift in Sources */,
-				61E1A7891CEECF4200728D95 /* NegatedCondition.swift in Sources */,
-				61E1A7771CEECF2400728D95 /* OperationObserver.swift in Sources */,
-				61E1A78C1CEECF4800728D95 /* NoCancelledDependencies.swift in Sources */,
-				61E1A79E1CEECF6A00728D95 /* iCloudContainerCapability.swift in Sources */,
-				61E1A7A21CEECF8600728D95 /* LocationCapability-tvOS.swift in Sources */,
-				61E1A7AE1CEECFC600728D95 /* NSLock+Operations.swift in Sources */,
-				61E1A7911CEECF4F00728D95 /* MutuallyExclusive.swift in Sources */,
-				61E1A7861CEECF3D00728D95 /* SilentCondition.swift in Sources */,
-				61E1A77A1CEECF2900728D95 /* BlockObserver.swift in Sources */,
-				61E1A7711CEECF1A00728D95 /* LocationOperation.swift in Sources */,
-				61E1A7A81CEECFB900728D95 /* Dictionary+Operations.swift in Sources */,
-				61E1A77D1CEECF2E00728D95 /* TimeoutObserver.swift in Sources */,
-				61E1A7921CEECF5200728D95 /* ReachabilityCondition.swift in Sources */,
-				61E1A7741CEECF1F00728D95 /* DelayOperation.swift in Sources */,
-				61E1A8001CF0043200728D95 /* ExclusivityController.swift in Sources */,
-				61E1A7B11CEED01B00728D95 /* Operation.swift in Sources */,
-				61E1A7831CEECF3800728D95 /* OperationCondition.swift in Sources */,
-				61E1A7FB1CF0042200728D95 /* OperationQueue.swift in Sources */,
-				61E1A7951CEECF5700728D95 /* Capability.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7451CEECCC100728D95 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				61E1A7AC1CEECFC000728D95 /* NSOperation+Operations.swift in Sources */,
-				61E1A7691CEECF0A00728D95 /* BlockOperation.swift in Sources */,
-				61E1A7811CEECF3300728D95 /* OperationErrors.swift in Sources */,
-				61E1A76C1CEECF0F00728D95 /* GroupOperation.swift in Sources */,
-				61E1A76F1CEECF1600728D95 /* URLSessionTaskOperation.swift in Sources */,
-				61E1A78A1CEECF4300728D95 /* NegatedCondition.swift in Sources */,
-				61E1A7781CEECF2500728D95 /* OperationObserver.swift in Sources */,
-				61E1A78D1CEECF4900728D95 /* NoCancelledDependencies.swift in Sources */,
-				61E1A7901CEECF4E00728D95 /* MutuallyExclusive.swift in Sources */,
-				61E1A7AF1CEECFC700728D95 /* NSLock+Operations.swift in Sources */,
-				61E1A7871CEECF3D00728D95 /* SilentCondition.swift in Sources */,
-				61E1A7A11CEECF7D00728D95 /* LocationCapability-iOS.swift in Sources */,
-				61E1A77B1CEECF2A00728D95 /* BlockObserver.swift in Sources */,
-				61E1A7721CEECF1B00728D95 /* LocationOperation.swift in Sources */,
-				61E1A7A91CEECFBA00728D95 /* Dictionary+Operations.swift in Sources */,
-				61E1A77E1CEECF2F00728D95 /* TimeoutObserver.swift in Sources */,
-				61E1A7931CEECF5300728D95 /* ReachabilityCondition.swift in Sources */,
-				61E1A7991CEECF5E00728D95 /* CalendarCapability.swift in Sources */,
-				61E1A7751CEECF2000728D95 /* DelayOperation.swift in Sources */,
-				61E1A8011CF0043200728D95 /* ExclusivityController.swift in Sources */,
-				61E1A7B21CEED01C00728D95 /* Operation.swift in Sources */,
-				61E1A7841CEECF3900728D95 /* OperationCondition.swift in Sources */,
-				61E1A7FC1CF0042200728D95 /* OperationQueue.swift in Sources */,
-				61E1A7961CEECF5800728D95 /* Capability.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		61E1A7521CEECD8C00728D95 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				61E1A76A1CEECF0B00728D95 /* BlockOperation.swift in Sources */,
-				61E1A7821CEECF3400728D95 /* OperationErrors.swift in Sources */,
-				61E1A76D1CEECF0F00728D95 /* GroupOperation.swift in Sources */,
-				61E1A7AA1CEECFBB00728D95 /* Dictionary+Operations.swift in Sources */,
-				61E1A7701CEECF1700728D95 /* URLSessionTaskOperation.swift in Sources */,
-				61E1A7B31CEED01C00728D95 /* Operation.swift in Sources */,
-				61E1A78B1CEECF4400728D95 /* NegatedCondition.swift in Sources */,
-				61E1A7A71CEECFAD00728D95 /* PushCapability-OSX.swift in Sources */,
-				61E1A7791CEECF2600728D95 /* OperationObserver.swift in Sources */,
-				61E1A78E1CEECF4A00728D95 /* NoCancelledDependencies.swift in Sources */,
-				61E1A7A01CEECF6C00728D95 /* iCloudContainerCapability.swift in Sources */,
-				61E1A78F1CEECF4E00728D95 /* MutuallyExclusive.swift in Sources */,
-				61E1A7881CEECF3E00728D95 /* SilentCondition.swift in Sources */,
-				61E1A8021CF0043200728D95 /* ExclusivityController.swift in Sources */,
-				61E1A77C1CEECF2B00728D95 /* BlockObserver.swift in Sources */,
-				61E1A7FD1CF0042200728D95 /* OperationQueue.swift in Sources */,
-				61E1A7731CEECF1C00728D95 /* LocationOperation.swift in Sources */,
-				61E1A77F1CEECF3000728D95 /* TimeoutObserver.swift in Sources */,
-				61E1A7AD1CEECFC100728D95 /* NSOperation+Operations.swift in Sources */,
-				61E1A7A31CEECF9000728D95 /* LocationCapability-OSX.swift in Sources */,
-				61E1A7941CEECF5400728D95 /* ReachabilityCondition.swift in Sources */,
-				61E1A79A1CEECF5F00728D95 /* CalendarCapability.swift in Sources */,
-				61E1A7761CEECF2100728D95 /* DelayOperation.swift in Sources */,
-				61E1A7B01CEECFC800728D95 /* NSLock+Operations.swift in Sources */,
-				61E1A7851CEECF3900728D95 /* OperationCondition.swift in Sources */,
-				61E1A7971CEECF5900728D95 /* Capability.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		61E1A7B81CEEE06000728D95 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1047,11 +949,111 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61E1A7D71CEEE3A900728D95 /* Sources */ = {
+		61E1A80E1CF026C000728D95 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61E1A7F31CEEE57100728D95 /* HealthCapability.swift in Sources */,
+				61E1A88C1CF028DB00728D95 /* NSOperation+Operations.swift in Sources */,
+				61E1A8661CF0278900728D95 /* OperationCondition.swift in Sources */,
+				61E1A8421CF0273D00728D95 /* OperationQueue.swift in Sources */,
+				61E1A8521CF0275700728D95 /* URLSessionTaskOperation.swift in Sources */,
+				61E1A87B1CF0288900728D95 /* CalendarCapability.swift in Sources */,
+				61E1A85A1CF0276500728D95 /* OperationObserver.swift in Sources */,
+				61E1A8451CF0274200728D95 /* ExclusivityController.swift in Sources */,
+				61E1A8481CF0274600728D95 /* Operation.swift in Sources */,
+				61E1A87F1CF0289300728D95 /* iCloudContainerCapability.swift in Sources */,
+				61E1A8831CF028AA00728D95 /* LocationCapability-tvOS.swift in Sources */,
+				61E1A88F1CF028E300728D95 /* NSLock+Operations.swift in Sources */,
+				61E1A8601CF0277100728D95 /* TimeoutObserver.swift in Sources */,
+				61E1A86F1CF0279900728D95 /* NoCancelledDependencies.swift in Sources */,
+				61E1A8721CF0279E00728D95 /* MutuallyExclusive.swift in Sources */,
+				61E1A8541CF0275A00728D95 /* LocationOperation.swift in Sources */,
+				61E1A84B1CF0274B00728D95 /* BlockOperation.swift in Sources */,
+				61E1A8891CF028D600728D95 /* Dictionary+Operations.swift in Sources */,
+				61E1A8921CF028E900728D95 /* UIUserNotifications+Operations.swift in Sources */,
+				61E1A86C1CF0279500728D95 /* NegatedCondition.swift in Sources */,
+				61E1A84E1CF0275000728D95 /* GroupOperation.swift in Sources */,
+				61E1A8571CF0275F00728D95 /* DelayOperation.swift in Sources */,
+				61E1A8631CF0277800728D95 /* OperationErrors.swift in Sources */,
+				61E1A8691CF0278E00728D95 /* SilentCondition.swift in Sources */,
+				61E1A8751CF027A300728D95 /* ReachabilityCondition.swift in Sources */,
+				61E1A8781CF0288300728D95 /* Capability.swift in Sources */,
+				61E1A85D1CF0276B00728D95 /* BlockObserver.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A81B1CF026CF00728D95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61E1A88D1CF028DC00728D95 /* NSOperation+Operations.swift in Sources */,
+				61E1A8671CF0278A00728D95 /* OperationCondition.swift in Sources */,
+				61E1A8431CF0273E00728D95 /* OperationQueue.swift in Sources */,
+				61E1A8511CF0275600728D95 /* URLSessionTaskOperation.swift in Sources */,
+				61E1A87C1CF0288A00728D95 /* CalendarCapability.swift in Sources */,
+				61E1A85B1CF0276600728D95 /* OperationObserver.swift in Sources */,
+				61E1A8461CF0274300728D95 /* ExclusivityController.swift in Sources */,
+				61E1A8491CF0274700728D95 /* Operation.swift in Sources */,
+				61E1A8801CF0289400728D95 /* iCloudContainerCapability.swift in Sources */,
+				61E1A8611CF0277200728D95 /* TimeoutObserver.swift in Sources */,
+				61E1A8901CF028E400728D95 /* NSLock+Operations.swift in Sources */,
+				61E1A8701CF0279A00728D95 /* NoCancelledDependencies.swift in Sources */,
+				61E1A8821CF028A600728D95 /* LocationCapability-iOS.swift in Sources */,
+				61E1A8731CF0279E00728D95 /* MutuallyExclusive.swift in Sources */,
+				61E1A8551CF0275B00728D95 /* LocationOperation.swift in Sources */,
+				61E1A84C1CF0274B00728D95 /* BlockOperation.swift in Sources */,
+				61E1A88A1CF028D600728D95 /* Dictionary+Operations.swift in Sources */,
+				61E1A8931CF028E900728D95 /* UIUserNotifications+Operations.swift in Sources */,
+				61E1A86D1CF0279500728D95 /* NegatedCondition.swift in Sources */,
+				61E1A84F1CF0275000728D95 /* GroupOperation.swift in Sources */,
+				61E1A8581CF0276100728D95 /* DelayOperation.swift in Sources */,
+				61E1A8641CF0277800728D95 /* OperationErrors.swift in Sources */,
+				61E1A86A1CF0278F00728D95 /* SilentCondition.swift in Sources */,
+				61E1A8761CF027A300728D95 /* ReachabilityCondition.swift in Sources */,
+				61E1A8791CF0288300728D95 /* Capability.swift in Sources */,
+				61E1A85E1CF0276C00728D95 /* BlockObserver.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A8281CF026E200728D95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61E1A8681CF0278B00728D95 /* OperationCondition.swift in Sources */,
+				61E1A8441CF0273F00728D95 /* OperationQueue.swift in Sources */,
+				61E1A8531CF0275800728D95 /* URLSessionTaskOperation.swift in Sources */,
+				61E1A8941CF028EA00728D95 /* UIUserNotifications+Operations.swift in Sources */,
+				61E1A88B1CF028D700728D95 /* Dictionary+Operations.swift in Sources */,
+				61E1A87D1CF0288B00728D95 /* CalendarCapability.swift in Sources */,
+				61E1A85C1CF0276700728D95 /* OperationObserver.swift in Sources */,
+				61E1A8881CF028CE00728D95 /* PushCapability-OSX.swift in Sources */,
+				61E1A8471CF0274300728D95 /* ExclusivityController.swift in Sources */,
+				61E1A84A1CF0274700728D95 /* Operation.swift in Sources */,
+				61E1A8811CF0289400728D95 /* iCloudContainerCapability.swift in Sources */,
+				61E1A8621CF0277300728D95 /* TimeoutObserver.swift in Sources */,
+				61E1A8711CF0279B00728D95 /* NoCancelledDependencies.swift in Sources */,
+				61E1A8741CF0279F00728D95 /* MutuallyExclusive.swift in Sources */,
+				61E1A8561CF0275C00728D95 /* LocationOperation.swift in Sources */,
+				61E1A84D1CF0274C00728D95 /* BlockOperation.swift in Sources */,
+				61E1A86E1CF0279600728D95 /* NegatedCondition.swift in Sources */,
+				61E1A8501CF0275100728D95 /* GroupOperation.swift in Sources */,
+				61E1A88E1CF028DD00728D95 /* NSOperation+Operations.swift in Sources */,
+				61E1A8841CF028B000728D95 /* LocationCapability-OSX.swift in Sources */,
+				61E1A8591CF0276100728D95 /* DelayOperation.swift in Sources */,
+				61E1A8651CF0277900728D95 /* OperationErrors.swift in Sources */,
+				61E1A86B1CF0278F00728D95 /* SilentCondition.swift in Sources */,
+				61E1A8771CF027A400728D95 /* ReachabilityCondition.swift in Sources */,
+				61E1A8911CF028E500728D95 /* NSLock+Operations.swift in Sources */,
+				61E1A87A1CF0288400728D95 /* Capability.swift in Sources */,
+				61E1A85F1CF0276C00728D95 /* BlockObserver.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61E1A8351CF026FE00728D95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61E1A87E1CF0288F00728D95 /* HealthCapability.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1269,137 +1271,6 @@
 			};
 			name = Release;
 		};
-		61E1A7431CEECB8100728D95 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Operations/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-tvOS";
-				PRODUCT_MODULE_NAME = Operations;
-				PRODUCT_NAME = Operations;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		61E1A7441CEECB8100728D95 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Operations/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-tvOS";
-				PRODUCT_MODULE_NAME = Operations;
-				PRODUCT_NAME = Operations;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		61E1A7501CEECCC100728D95 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Operations/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-watchOS";
-				PRODUCT_MODULE_NAME = Operations;
-				PRODUCT_NAME = Operations;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		61E1A7511CEECCC100728D95 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Operations/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-watchOS";
-				PRODUCT_MODULE_NAME = Operations;
-				PRODUCT_NAME = Operations;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		61E1A75D1CEECD8D00728D95 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Operations/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-macOS";
-				PRODUCT_MODULE_NAME = Operations;
-				PRODUCT_NAME = Operations;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		61E1A75E1CEECD8D00728D95 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Operations/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-macOS";
-				PRODUCT_MODULE_NAME = Operations;
-				PRODUCT_NAME = Operations;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 		61E1A7C31CEEE06000728D95 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1478,7 +1349,7 @@
 			};
 			name = Release;
 		};
-		61E1A7E21CEEE3A900728D95 /* Debug */ = {
+		61E1A8191CF026C000728D95 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1487,19 +1358,19 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Operations/OperationsHealthExtras-Info.plist";
+				INFOPLIST_FILE = Operations/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.OperationsHealthExtras-watchOS";
-				PRODUCT_NAME = OperationsHealthExtras;
-				SDKROOT = watchos;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-tvOS";
+				PRODUCT_NAME = Operations;
+				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
 			};
 			name = Debug;
 		};
-		61E1A7E31CEEE3A900728D95 /* Release */ = {
+		61E1A81A1CF026C000728D95 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1507,15 +1378,146 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = Operations/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-tvOS";
+				PRODUCT_NAME = Operations;
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Release;
+		};
+		61E1A8261CF026CF00728D95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = Operations/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-watchOS";
+				PRODUCT_NAME = Operations;
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		61E1A8271CF026CF00728D95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = Operations/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-watchOS";
+				PRODUCT_NAME = Operations;
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+		61E1A8331CF026E200728D95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_VERSION = A;
+				INFOPLIST_FILE = Operations/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-macOS";
+				PRODUCT_NAME = Operations;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		61E1A8341CF026E200728D95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_VERSION = A;
+				INFOPLIST_FILE = Operations/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.Operations-macOS";
+				PRODUCT_NAME = Operations;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		61E1A8401CF026FE00728D95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Operations/OperationsHealthExtras-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.OperationsHealthExtras-watchOS";
 				PRODUCT_NAME = OperationsHealthExtras;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		61E1A8411CF026FE00728D95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Operations/OperationsHealthExtras-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.benjaminkraus.OperationsHealthExtras-watchOS";
+				PRODUCT_NAME = OperationsHealthExtras;
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
 		};
@@ -1605,33 +1607,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		61E1A7421CEECB8100728D95 /* Build configuration list for PBXNativeTarget "Operations-tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				61E1A7431CEECB8100728D95 /* Debug */,
-				61E1A7441CEECB8100728D95 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		61E1A74F1CEECCC100728D95 /* Build configuration list for PBXNativeTarget "Operations-watchOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				61E1A7501CEECCC100728D95 /* Debug */,
-				61E1A7511CEECCC100728D95 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		61E1A75C1CEECD8D00728D95 /* Build configuration list for PBXNativeTarget "Operations-macOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				61E1A75D1CEECD8D00728D95 /* Debug */,
-				61E1A75E1CEECD8D00728D95 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		61E1A7C21CEEE06000728D95 /* Build configuration list for PBXNativeTarget "OperationsHealthExtras-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1650,14 +1625,37 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		61E1A7E11CEEE3A900728D95 /* Build configuration list for PBXNativeTarget "OperationsHealthExtras-watchOS" */ = {
+		61E1A8181CF026C000728D95 /* Build configuration list for PBXNativeTarget "Operations-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				61E1A7E21CEEE3A900728D95 /* Debug */,
-				61E1A7E31CEEE3A900728D95 /* Release */,
+				61E1A8191CF026C000728D95 /* Debug */,
+				61E1A81A1CF026C000728D95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+		};
+		61E1A8251CF026CF00728D95 /* Build configuration list for PBXNativeTarget "Operations-watchOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61E1A8261CF026CF00728D95 /* Debug */,
+				61E1A8271CF026CF00728D95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		61E1A8321CF026E200728D95 /* Build configuration list for PBXNativeTarget "Operations-macOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61E1A8331CF026E200728D95 /* Debug */,
+				61E1A8341CF026E200728D95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		61E1A83F1CF026FE00728D95 /* Build configuration list for PBXNativeTarget "OperationsHealthExtras-watchOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61E1A8401CF026FE00728D95 /* Debug */,
+				61E1A8411CF026FE00728D95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 		FD19C9EA1C440293005D0F07 /* Build configuration list for PBXNativeTarget "PSOperationsAppForTests" */ = {
 			isa = XCConfigurationList;

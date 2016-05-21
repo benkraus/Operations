@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "61E1A7561CEECD8C00728D95"
-               BuildableName = "Operations.framework"
+               BlueprintIdentifier = "61E1A82C1CF026E200728D95"
+               BuildableName = "Operations-macOS.framework"
                BlueprintName = "Operations-macOS"
                ReferencedContainer = "container:Operations.xcodeproj">
             </BuildableReference>
@@ -45,8 +45,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "61E1A7561CEECD8C00728D95"
-            BuildableName = "Operations.framework"
+            BlueprintIdentifier = "61E1A82C1CF026E200728D95"
+            BuildableName = "Operations-macOS.framework"
             BlueprintName = "Operations-macOS"
             ReferencedContainer = "container:Operations.xcodeproj">
          </BuildableReference>
@@ -63,8 +63,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "61E1A7561CEECD8C00728D95"
-            BuildableName = "Operations.framework"
+            BlueprintIdentifier = "61E1A82C1CF026E200728D95"
+            BuildableName = "Operations-macOS.framework"
             BlueprintName = "Operations-macOS"
             ReferencedContainer = "container:Operations.xcodeproj">
          </BuildableReference>

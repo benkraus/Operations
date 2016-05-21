@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "61E1A73C1CEECB8100728D95"
-               BuildableName = "Operations.framework"
+               BlueprintIdentifier = "61E1A8121CF026C000728D95"
+               BuildableName = "Operations-tvOS.framework"
                BlueprintName = "Operations-tvOS"
                ReferencedContainer = "container:Operations.xcodeproj">
             </BuildableReference>
@@ -45,8 +45,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "61E1A73C1CEECB8100728D95"
-            BuildableName = "Operations.framework"
+            BlueprintIdentifier = "61E1A8121CF026C000728D95"
+            BuildableName = "Operations-tvOS.framework"
             BlueprintName = "Operations-tvOS"
             ReferencedContainer = "container:Operations.xcodeproj">
          </BuildableReference>
@@ -63,8 +63,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "61E1A73C1CEECB8100728D95"
-            BuildableName = "Operations.framework"
+            BlueprintIdentifier = "61E1A8121CF026C000728D95"
+            BuildableName = "Operations-tvOS.framework"
             BlueprintName = "Operations-tvOS"
             ReferencedContainer = "container:Operations.xcodeproj">
          </BuildableReference>

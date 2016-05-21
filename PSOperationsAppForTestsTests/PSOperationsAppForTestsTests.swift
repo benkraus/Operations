@@ -8,7 +8,7 @@
 
 import XCTest
 @testable import PSOperationsAppForTests
-import PSOperations
+import Operations
 
 class PSOperationsAppForTestsTests: XCTestCase {
     
